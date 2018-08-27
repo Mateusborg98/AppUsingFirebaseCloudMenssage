@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412928988856",
+    "firebase_url": "https://denovoesseapp.firebaseio.com",
+    "project_id": "denovoesseapp",
+    "storage_bucket": "denovoesseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412928988856:android:ece6cad7b740e44e",
+        "android_client_info": {
+          "package_name": "br.com.testehihealth.denovoesseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412928988856-6u1siurq0scuh2df20r7kv0dmvkea4kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.testehihealth.denovoesseapp",
+            "certificate_hash": "abdddb3928c56d84a7a850f531e99cebd2825393"
+          }
+        },
+        {
+          "client_id": "412928988856-nro4iellgentudv7i20d3a3uduohg7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-Wpo7YyH-znT1Y_4Quh2v9xY8PijdeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412928988856-nro4iellgentudv7i20d3a3uduohg7ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
